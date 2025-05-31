@@ -93,3 +93,9 @@ Visual representation of predictions
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/740b8456-66aa-44b7-b164-7ea5448c9cf9)
+
+![Image](https://github.com/user-attachments/assets/d309c3ff-0860-4c37-9324-df7c5298a69f)
+
+![Image](https://github.com/user-attachments/assets/3eaa8e68-40d8-4a69-b231-f54d5ef84430)
+
